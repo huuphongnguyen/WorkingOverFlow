@@ -1,7 +1,7 @@
 
 ![N|Solid](https://huuphongnguyen.com/wp-content/uploads/2018/02/Introduction.jpg)
 # What is WorkingOverFlow?
-This is the Sketch Library to create some awesome arrows that it will help everyone so much in orgranizational workflow on Sketch
+This is the Sketch Library to create some awesome arrows that it will help everyone so much in orgranizational workflow on Sketch. For my opinion, this is the feature that we really need in Sketch when we work with collaboration. We can easily manage the flow of a huge project. It is really awesome, right.? 
 For example,
 ![N|Solid](https://huuphongnguyen.com/wp-content/uploads/2018/02/Screen-Shot-2018-02-02-at-3.53.03-PM.png)
 
@@ -15,4 +15,5 @@ I have created this library based on Sketch file. So this is just a Sketchfile, 
 
 # Contact 
 If you have something confused and need help, you can contact directly to me through my website. I will help you in my best :)
+
 [![N|Solid](https://huuphongnguyen.com/wp-content/uploads/2018/02/HuuPhongNguyen.com-Button.png)](https://huuphongnguyen.com)
